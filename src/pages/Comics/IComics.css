@@ -1,0 +1,15 @@
+.icomicsImage {
+    height: 650px;
+}
+
+.icomicsCharacters:hover {
+    cursor: pointer;
+    color: red;
+    text-decoration: underline;
+}
+
+.icomicsContent {
+    padding-left: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
